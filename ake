@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+main() {
+  babel src -d . --watch
+}
+
+case "$1" in
+  "" ) main ;;
+esac
