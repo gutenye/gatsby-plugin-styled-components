@@ -1,6 +1,9 @@
 gatsby-plugin-styled-components
 -----------------------
 
+
+**MOVED TO gatsby Official repository https://github.com/gatsbyjs/gatsby/tree/1.0/packages/gatsby-plugin-styled-components**
+
 A [gatsby](https://github.com/gatsbyjs/gatsby) plugin for [styled-components](https://github.com/styled-components/styled-components) with server-sider rendering support.
 
 ## Install
